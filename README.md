@@ -67,3 +67,11 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+
+# DEVTO blog
+
+**Explored how to use the `fetch` and built an app with the basic DEV content features and structure using only this `fetch` hook.**
+
+
+
+
